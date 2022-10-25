@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include "pilha.h"
 #include "fila.h"
 
@@ -31,7 +30,7 @@ int main() {
             if (C == 'i') {
                 empilhar(&pilha, I);
                 inserir(&fila, I);
-            } else if (C == 'r') {
+            } else {
                 resultado_pilha = desempilhar(&pilha);
                 resultado_fila = remover(&fila);
 

@@ -1,5 +1,4 @@
 #include <stdlib.h>
-#include <stdio.h>
 #include "fila.h"
 
 void criar_fila(t_fila *fila) {
