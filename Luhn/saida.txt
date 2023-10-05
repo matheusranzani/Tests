@@ -1,0 +1,4 @@
+Cartão válido
+Cartão inválido
+Cartão válido
+Cartão válido
